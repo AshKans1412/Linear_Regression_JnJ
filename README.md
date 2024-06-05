@@ -1,1 +1,3 @@
-# Linear_Regression_JnJ
+# Linear Regression JnJ
+
+Linear Regression Explanation with Gradient Descent.
